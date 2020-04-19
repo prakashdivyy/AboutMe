@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">About Me</string>
+    <string name="name">Prakash Divy</string>
+    <string name="bio"> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc vitae elit ante. Aenean gravida enim velit, sit amet eleifend diam convallis in. Etiam libero nunc, semper nec ipsum a, malesuada mattis urna. Fusce condimentum lectus in egestas luctus. Curabitur iaculis venenatis diam ac convallis. Pellentesque eu dui in sem sodales rhoncus a eget urna. Aenean mi ipsum, porta a dictum in, egestas quis massa. Fusce lacinia turpis sodales metus egestas, ut pulvinar lorem rutrum. Aenean at tempus quam. Etiam mattis quis leo sed fermentum.\n\nSuspendisse nisl risus, accumsan et tristique quis, ultrices vitae velit. Cras aliquam erat hendrerit venenatis facilisis. Suspendisse eleifend porta nulla hendrerit ultricies. Duis mollis elementum tempus. Proin varius purus sed nulla consectetur laoreet. Maecenas facilisis metus eget lectus varius laoreet. Aliquam eget arcu nec sapien imperdiet ornare a luctus sapien. Curabitur sed porta libero. </string>
+    <string name="yellow_star">Yellow Star</string>
+    <string name="what_is_your_nick_name">What is your Nickname?</string>
+    <string name="done">Done</string>
+</resources>
